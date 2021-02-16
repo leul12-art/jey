@@ -1,2 +1,2 @@
 # jey
-This web is about data science 
+This project describes about more on data science
